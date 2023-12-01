@@ -1,1 +1,7 @@
-print("bonjour, je serai le dernier révolutionnaire du monde !")
+def losage(nb):
+    for i in range(nb):
+        print("*"*i)
+
+
+losage(15)
+
